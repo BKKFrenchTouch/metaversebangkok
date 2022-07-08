@@ -1,0 +1,45 @@
+{
+  "name": "metaverse_bangkok",
+  "homepage":"./",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export" : "next export"
+  },
+  "dependencies": {
+    "gsap": "^3.9.1",
+    "is-plain-object": "^5.0.0",
+    "next": "^12.0.7",
+    "node-fetch": "^3.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-gsap": "^3.2.1",
+    "react-native": "^0.66.4",
+    "react-parallax": "^3.3.0",
+    "react-phone-input-2": "^2.14.0",
+    "react-scrollmagic": "^2.3.0",
+    "typewriter-effect": "^2.18.2",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJSOG/MetaverseBangkok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJSOG/MetaverseBangkok/issues"
+  },
+  "homepage": "https://github.com/RJSOG/MetaverseBangkok#readme"
+}
